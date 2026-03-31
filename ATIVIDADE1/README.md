@@ -1,15 +1,39 @@
-# Gustavo Nadal Bayer - 24066371-2
+# Hello World em Dart
 
-## Descrição da atividade
+Este projeto é um exemplo simples desenvolvido em Dart com o objetivo de demonstrar a estrutura básica de um programa na linguagem.
 
-O objetivo da atividade era desenvolver um projeto simples em Dart que contenha um programa que ao ser executado, seja exibido a mensagem "Hello World" no terminal.
+## 📌 Descrição
 
-## Instruções
-Para executar o programa é bem simples, basta estar na pasta do arquivo .dart, e logo em seguida digitar no terminal:
+O arquivo principal contém uma função `main`, que é o ponto de entrada da aplicação. Ao ser executado, o programa imprime a mensagem "Hello, World!" no terminal.
+
+## 📁 Estrutura do Projeto
+
 ```
-dart run main.dart
+.
+├── hello.dart
+└── README.md
 ```
-E a saída esperada do código é:
+
+## 🚀 Como Executar
+
+1. Certifique-se de que o Dart SDK está instalado em sua máquina.
+2. Abra o terminal na pasta do projeto.
+3. Execute o seguinte comando:
+
 ```
-Hello World
+dart run hello.dart
 ```
+
+## ✅ Saída Esperada
+
+```
+Hello, World!
+```
+
+## 🛠 Tecnologias Utilizadas
+
+- Dart
+
+## 👨‍💻 Autor
+
+Feito por **Carlos Aplewicz**
